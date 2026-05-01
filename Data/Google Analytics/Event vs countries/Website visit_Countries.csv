@@ -1,0 +1,208 @@
+# ----------------------------------------
+# Events: Event name
+# Account: Waste Hero 
+# Property: Waste Hero 
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20230101
+# End date: 20260306
+Event name,Country,Total users,Event count
+page_view,India,324906,536985
+page_view,Philippines,261901,391065
+page_view,Mexico,44931,65921
+page_view,Brazil,36017,57234
+page_view,United States,29673,43790
+page_view,South Africa,25473,34020
+page_view,Indonesia,15077,22997
+page_view,Spain,8499,13841
+page_view,France,7627,11455
+page_view,Canada,4237,6063
+page_view,Thailand,3482,10090
+page_view,Germany,2365,3716
+page_view,Hungary,1249,1931
+page_view,Malaysia,1160,2518
+page_view,Norway,1109,1464
+page_view,Bangladesh,754,2102
+page_view,Singapore,754,1666
+page_view,China,749,1711
+page_view,Netherlands,694,1044
+page_view,New Zealand,676,1032
+page_view,United Kingdom,660,1523
+page_view,Cambodia,340,621
+page_view,Myanmar (Burma),338,1132
+page_view,Colombia,312,762
+page_view,Ireland,266,493
+page_view,Australia,255,618
+page_view,Poland,247,691
+page_view,Vietnam,205,945
+page_view,Pakistan,183,393
+page_view,Saudi Arabia,181,598
+page_view,United Arab Emirates,174,396
+page_view,(not set),173,321
+page_view,Japan,170,1612
+page_view,South Korea,169,817
+page_view,Sweden,165,313
+page_view,Brunei,158,315
+page_view,Laos,124,397
+page_view,Russia,124,678
+page_view,Iran,120,541
+page_view,Nepal,117,310
+page_view,Hong Kong,111,373
+page_view,Portugal,111,241
+page_view,Finland,101,238
+page_view,Italy,100,596
+page_view,Argentina,95,314
+page_view,Luxembourg,95,143
+page_view,Türkiye,95,751
+page_view,Bhutan,93,156
+page_view,Peru,93,269
+page_view,Israel,90,363
+page_view,Ukraine,84,334
+page_view,Chile,73,404
+page_view,Switzerland,70,134
+page_view,Austria,69,227
+page_view,Belgium,68,283
+page_view,Egypt,58,353
+page_view,Qatar,52,102
+page_view,Nigeria,50,624
+page_view,Romania,48,207
+page_view,Denmark,47,60
+page_view,Ecuador,47,165
+page_view,Greece,42,101
+page_view,Taiwan,42,229
+page_view,Costa Rica,36,93
+page_view,Kenya,35,105
+page_view,Morocco,35,248
+page_view,Jordan,34,117
+page_view,Bolivia,32,106
+page_view,Kuwait,32,82
+page_view,Panama,31,93
+page_view,Uganda,31,141
+page_view,Venezuela,30,148
+page_view,Algeria,29,213
+page_view,Albania,28,234
+page_view,Ethiopia,27,409
+page_view,Kazakhstan,26,114
+page_view,Serbia,25,123
+page_view,Czechia,24,93
+page_view,Armenia,22,108
+page_view,Bahrain,22,31
+page_view,Guatemala,21,52
+page_view,Senegal,21,56
+page_view,Uruguay,21,24
+page_view,Bulgaria,20,114
+page_view,Dominican Republic,20,57
+page_view,Oman,20,92
+page_view,Slovakia,19,41
+page_view,Maldives,18,55
+page_view,Sri Lanka,16,69
+page_view,Afghanistan,15,74
+page_view,Azerbaijan,15,168
+page_view,Belarus,15,74
+page_view,Lithuania,15,36
+page_view,Paraguay,15,18
+page_view,Tanzania,15,74
+page_view,Bosnia & Herzegovina,14,40
+page_view,Timor-Leste,14,35
+page_view,Croatia,13,73
+page_view,Iraq,13,100
+page_view,Côte d’Ivoire,12,136
+page_view,El Salvador,12,28
+page_view,Mauritius,12,15
+page_view,Eswatini,11,12
+page_view,Mozambique,11,69
+page_view,Uzbekistan,11,127
+page_view,Ghana,10,43
+page_view,Jamaica,10,14
+page_view,Libya,10,10
+page_view,Mongolia,10,12
+page_view,Tunisia,10,39
+page_view,Zambia,10,78
+page_view,Estonia,9,11
+page_view,Georgia,9,40
+page_view,Lesotho,9,16
+page_view,Namibia,9,71
+page_view,Nicaragua,9,48
+page_view,Puerto Rico,9,10
+page_view,Cameroon,8,105
+page_view,Cyprus,8,37
+page_view,Faroe Islands,8,8
+page_view,Guernsey,8,8
+page_view,Mali,8,37
+page_view,Martinique,8,8
+page_view,Syria,8,37
+page_view,Angola,7,65
+page_view,Aruba,7,7
+page_view,Benin,7,11
+page_view,Honduras,7,7
+page_view,French Polynesia,6,6
+page_view,Gibraltar,6,6
+page_view,Guadeloupe,6,7
+page_view,Guinea,6,11
+page_view,Latvia,6,7
+page_view,Madagascar,6,35
+page_view,Papua New Guinea,6,35
+page_view,Slovenia,6,6
+page_view,Svalbard & Jan Mayen,6,6
+page_view,Togo,6,6
+page_view,Zimbabwe,6,11
+page_view,American Samoa,5,8
+page_view,Bermuda,5,5
+page_view,Burkina Faso,5,94
+page_view,Gambia,5,6
+page_view,Malta,5,5
+page_view,Mauritania,5,6
+page_view,Mayotte,5,5
+page_view,Monaco,5,5
+page_view,Réunion,5,5
+page_view,Yemen,5,179
+page_view,Bahamas,4,4
+page_view,Fiji,4,4
+page_view,Lebanon,4,34
+page_view,Liberia,4,10
+page_view,Palestine,4,64
+page_view,Seychelles,4,4
+page_view,St. Pierre & Miquelon,4,4
+page_view,Sudan,4,34
+page_view,Trinidad & Tobago,4,9
+page_view,U.S. Virgin Islands,4,7
+page_view,Cuba,3,62
+page_view,Iceland,3,3
+page_view,Kyrgyzstan,3,32
+page_view,North Macedonia,3,3
+page_view,Northern Mariana Islands,3,3
+page_view,Rwanda,3,32
+page_view,Sint Maarten,3,3
+page_view,Barbados,2,3
+page_view,Botswana,2,2
+page_view,Cape Verde,2,2
+page_view,Congo - Kinshasa,2,60
+page_view,Guam,2,3
+page_view,Kosovo,2,31
+page_view,Montenegro,2,13
+page_view,Niger,2,31
+page_view,Sierra Leone,2,3
+page_view,Somalia,2,2
+page_view,Western Sahara,2,2
+page_view,Andorra,1,1
+page_view,Belize,1,3
+page_view,Cayman Islands,1,1
+page_view,Cook Islands,1,1
+page_view,French Guiana,1,1
+page_view,Gabon,1,2
+page_view,Grenada,1,1
+page_view,Guinea-Bissau,1,1
+page_view,Guyana,1,1
+page_view,Haiti,1,30
+page_view,Isle of Man,1,1
+page_view,Jersey,1,2
+page_view,Macao,1,1
+page_view,Malawi,1,30
+page_view,Moldova,1,2
+page_view,New Caledonia,1,30
+page_view,St. Lucia,1,1
+page_view,St. Vincent & Grenadines,1,3
+page_view,Suriname,1,1
+page_view,Tajikistan,1,1
+page_view,Vanuatu,1,1

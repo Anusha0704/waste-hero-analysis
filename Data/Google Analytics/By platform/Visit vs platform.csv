@@ -1,0 +1,262 @@
+# ----------------------------------------
+# Events: Event name
+# Account: Waste Hero 
+# Property: Waste Hero 
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20230101
+# End date: 20260306
+Event name,Session source/medium,Total users,Event count
+page_view,google / cpc,594926,844086
+page_view,(direct) / (none),67365,157359
+page_view,l.facebook.com / referral,59807,111940
+page_view,m.facebook.com / referral,14817,23777
+page_view,(data not available),10144,20603
+page_view,(Porvir) Social Media Posts / (Porvir) Social Media Posts,9196,10640
+page_view,google / organic,5259,9908
+page_view,ShareMyLesson Campaign / ShareMyLesson Campaign,3937,4573
+page_view,(NEA) Ad Campaign / (NEA) Ad Campaign,3628,5217
+page_view,(not set),2152,27743
+page_view,lm.facebook.com / referral,1942,2588
+page_view,NEA Ads / Social Media,1694,2508
+page_view,Porvir / email,835,1274
+page_view,youtube.com / referral,627,1188
+page_view,qr-codes.io / referral,626,1082
+page_view,instagram.com / referral,616,1231
+page_view,Mariana Teran (Social Media) / influencer promotion,583,849
+page_view,leadsgo.io / referral,508,1016
+page_view,bing / organic,421,875
+page_view,l.instagram.com / referral,332,679
+page_view,Gam Facebook / Gam Facebook,251,389
+page_view,Maria Lynn (Social Media) / influencer promotion,202,404
+page_view,LinkedIn / Content,193,213
+page_view,hs_email / email,179,246
+page_view,yunus-thailand.org / referral,176,334
+page_view,Facebook Ad / affiliate promotion,173,205
+page_view,facebook.com / referral,165,221
+page_view,qr.page / referral,157,318
+page_view,Gam Instagram / Gam Instagram,156,273
+page_view,sustainability.indoramaventures.com / referral,151,226
+page_view,seameoseps.org / referral,150,223
+page_view,Rappler (Ads) / Rappler (Ads),134,151
+page_view,mail.google.com / referral,131,334
+page_view,linkedin.com / referral,125,237
+page_view,IVL / promotion,107,281
+page_view,statics.teams.cdn.office.net / referral,87,202
+page_view,Prof Yunus (Social Media) / influencer promotion,71,124
+page_view,napcor.com / referral,70,88
+page_view,yahoo / organic,52,275
+page_view,MPU / affiliate promotion,50,63
+page_view,chatgpt.com / referral,50,83
+page_view,nea.org / referral,44,68
+page_view,BMA Campaign / BMA Campaign,38,101
+page_view,event.on24.com / referral,36,45
+page_view,duckduckgo / organic,33,267
+page_view,Google Ads + Newsletter / promotion,30,62
+page_view,ShareMyLesson Ads Campaign / Social Media,30,51
+page_view,ecosia.org / organic,30,72
+page_view,Banner Ad / affiliate promotion,27,56
+page_view,community.emf.org / referral,27,53
+page_view,Social Media / influencer promotion,25,56
+page_view,vercel.com / referral,19,379
+page_view,Margreen (Social Media) / influencer promotion,18,32
+page_view,mycourseville.com / referral,18,19
+page_view,out.smore.com / referral,17,22
+page_view,chatgpt.com / (not set),15,17
+page_view,l.messenger.com / referral,15,25
+page_view,teams.microsoft.com / referral,14,28
+page_view,lnkd.in / referral,13,21
+page_view,baidu / organic,12,16
+page_view,web.toddleapp.com / referral,12,23
+page_view,AFB Bef / Fbdvby Zfevb,10,10
+page_view,DMPU / affiliate promotion,10,11
+page_view,conversation_mailer / email,10,30
+page_view,esp / Email,10,13
+page_view,googleads.g.doubleclick.net / referral,10,11
+page_view,ph.search.yahoo.com / referral,10,39
+page_view,recyclecolorado.org / referral,10,15
+page_view,bic.moe.go.th / referral,9,35
+page_view,id.search.yahoo.com / referral,9,31
+page_view,web.yammer.com / referral,9,16
+page_view,zalo / zalo,9,12
+page_view,apis.mail.yahoo.com / referral,8,8
+page_view,get-qr.com / referral,8,10
+page_view,l.workplace.com / referral,8,41
+page_view,adclick.g.doubleclick.net / referral,7,7
+page_view,m.youtube.com / referral,7,8
+page_view,tagassistant.google.com / referral,7,111
+page_view,Brainfeed (Article) / Brainfeed (Article),6,15
+page_view,canva.com / referral,6,22
+page_view,cn.bing.com / referral,6,6
+page_view,gbc-word-edit.officeapps.live.com / referral,6,7
+page_view,localhost:3000 / referral,6,20
+page_view,me-qr.com / referral,6,54
+page_view,mgronline.com / referral,6,27
+page_view,web.telegram.org / referral,6,19
+page_view,Gulo (Campaign) / Gulo (Campaign),5,9
+page_view,engage.cloud.microsoft / referral,5,6
+page_view,luma.com / referral,5,13
+page_view,mikesnews.co.nz / referral,5,5
+page_view,moe.go.th / referral,5,14
+page_view,techsauce.co / referral,5,8
+page_view,FubefZlYfffba Dbzcbvta / FubefZlYfffba Dbzcbvta,4,4
+page_view,Jessica Kleczka (Campaign) / Jessica Kleczka (Campaign),4,11
+page_view,NEA / NEA Grid Sponsorship,4,7
+page_view,br.search.yahoo.com / referral,4,13
+page_view,classroom.google.com / referral,4,6
+page_view,dnserrorassist.att.net / referral,4,5
+page_view,gstatic.com / referral,4,24
+page_view,mx.search.yahoo.com / referral,4,8
+page_view,sec-word-edit.officeapps.live.com / referral,4,8
+page_view,tricityecology.org / referral,4,6
+page_view,ukc-word-edit.officeapps.live.com / referral,4,6
+page_view,web.skype.com / referral,4,5
+page_view,www-wasteheroeducation-com.translate.goog / referral,4,7
+page_view,(AFB) Be Dbzcbvta / (AFB) Be Dbzcbvta,3,3
+page_view,(NEA) Ad Campaign / (not set),3,3
+page_view,GovDelivery / email,3,6
+page_view,Newsletter Ad / affiliate promotion,3,14
+page_view,docs.google.com / referral,3,10
+page_view,ead06.proj.ufsm.br / referral,3,6
+page_view,edgeservices.bing.com / referral,3,4
+page_view,eto.lightning.force.com / referral,3,12
+page_view,in.search.yahoo.com / referral,3,8
+page_view,indoramaventures.com / referral,3,4
+page_view,indoramaventures.sharepoint.com / referral,3,3
+page_view,ktb.org / referral,3,6
+page_view,lms.lausd.net / referral,3,3
+page_view,niagarawater1.sharepoint.com / referral,3,3
+page_view,padlet.com / referral,3,4
+page_view,pagead2.googlesyndication.com / referral,3,3
+page_view,probhaaurora.com / referral,3,8
+page_view,sharemylesson.com / referral,3,8
+page_view,(NEA / (not set),2,2
+page_view,3DPorvir / (not set),2,2
+page_view,Dr. Amjad Saqib (Social Media) / influencer promotion,2,12
+page_view,[SEAMOLEC Blast] CAL... (Mass Mailing created on 2023-07-14) / Email,2,6
+page_view,admanager.google.com / referral,2,3
+page_view,ads.google.com / referral,2,15
+page_view,aol / organic,2,2
+page_view,attachment.outlook.live.net / referral,2,4
+page_view,beta.indoramaventures.com / referral,2,4
+page_view,borareciclar.com.br / referral,2,4
+page_view,cl.search.yahoo.com / referral,2,4
+page_view,cop.enneplusproject.eu / referral,2,2
+page_view,copilot.microsoft.com / referral,2,3
+page_view,euc-excel.officeapps.live.com / referral,2,2
+page_view,googleadservices.com / referral,2,2
+page_view,liblink.pl / referral,2,2
+page_view,online.fliphtml5.com / referral,2,4
+page_view,perplexity.ai / referral,2,2
+page_view,petalsearch.com / referral,2,27
+page_view,pl.search.yahoo.com / referral,2,2
+page_view,search-dra.dt.dbankcloud.com / referral,2,3
+page_view,sg.search.yahoo.com / referral,2,2
+page_view,uk.search.yahoo.com / referral,2,3
+page_view,yandex.com.tr / referral,2,2
+page_view,(NEA) Ad Campaign / organic,1,1
+page_view,Ads Campaign / SM,1,3
+page_view,FubefZlYfffba Bef Dbzcbvta / Fbdvby Zfevb,1,1
+page_view,Mariana Teran / (not set),1,2
+page_view,NEA Email Newsletter Ad / NEA Email Newsletter Ad,1,11
+page_view,Porvir / (Porvir) Social Media Posts,1,1
+page_view,ShareMyLesson Campaign / (not set),1,1
+page_view,ShareMyLesson Campaign / referral,1,1
+page_view,adsmanager.facebook.com / referral,1,2
+page_view,adwords.corp.google.com / referral,1,2
+page_view,app.dripify.io / referral,1,1
+page_view,app.falcon.io / referral,1,1
+page_view,app.planbook.com / referral,1,8
+page_view,app.sendible.com / referral,1,4
+page_view,au.search.yahoo.com / referral,1,1
+page_view,autoscout24.fr / referral,1,2
+page_view,baciakte.online / referral,1,1
+page_view,boardgamearena.com / referral,1,2
+page_view,business.facebook.com / referral,1,46
+page_view,calendar.google.com / referral,1,2
+page_view,canva / iframely,1,3
+page_view,cds-ext-ead-economiasustentavel-252.dreamshaper.com / referral,1,1
+page_view,chat.openai.com / referral,1,1
+page_view,chat.zalo.me / referral,1,4
+page_view,chatgpt.com / organic,1,1
+page_view,coches.trovit.es / referral,1,1
+page_view,copilot.cloud.microsoft / referral,1,1
+page_view,cvtblog.online / referral,1,1
+page_view,dailyfx.com / referral,1,1
+page_view,ddec1-0-en-ctp.trendmicro.com / referral,1,4
+page_view,digitick.com / referral,1,1
+page_view,domesticatedcompanion.com / referral,1,1
+page_view,e.mail.ru / referral,1,1
+page_view,eavuinsr.online / referral,1,1
+page_view,ecf4clim.smartwatt.net / referral,1,4
+page_view,eksisozluk.com / referral,1,2
+page_view,encmbtia.online / referral,1,1
+page_view,etufac.online / referral,1,1
+page_view,fiverr.com / referral,1,2
+page_view,fr.search.yahoo.com / referral,1,2
+page_view,gemini.google.com / referral,1,1
+page_view,github.com / referral,1,3
+page_view,go.bsky.app / referral,1,1
+page_view,groups.google.com / referral,1,1
+page_view,hardreset.info / referral,1,1
+page_view,homeofbob.com / referral,1,1
+page_view,hugedomains.com / referral,1,1
+page_view,hypertherm.sharepoint.com / referral,1,1
+page_view,iste.lightning.force.com / referral,1,4
+page_view,keep.google.com / referral,1,1
+page_view,localhost / referral,1,2
+page_view,localhost:6543 / referral,1,1
+page_view,login.microsoftonline.com / referral,1,6
+page_view,m.mgronline.com / referral,1,2
+page_view,m.nearbyme.io / referral,1,2
+page_view,macworld.com / referral,1,1
+page_view,mail.aliyun.com / referral,1,5
+page_view,mail.infinitummail.com / referral,1,2
+page_view,mail3.spectrum.net / referral,1,1
+page_view,malaysia.search.yahoo.com / referral,1,1
+page_view,manager.cloud.ipdgroup.com:4443 / referral,1,2
+page_view,mightytechy.com / referral,1,4
+page_view,myportal.upou.edu.ph / referral,1,1
+page_view,nfwbt.ratraiser.online / referral,1,1
+page_view,openai / referral,1,1
+page_view,ops.moe.go.th / referral,1,4
+page_view,optiwise.teamwork.com / referral,1,1
+page_view,orb-cn.glowapp.vip / referral,1,1
+page_view,orchid-conch-cfrt.squarespace.com / referral,1,1
+page_view,outlook.live.com / referral,1,2
+page_view,perplexity / (not set),1,1
+page_view,phimarshcer.online / referral,1,1
+page_view,portal.ct.gov / referral,1,1
+page_view,presearch.com / referral,1,4
+page_view,publicdomainpictures.net / referral,1,1
+page_view,qra.ai / referral,1,1
+page_view,qrcodescan.in / referral,1,1
+page_view,qwant.com / organic,1,1
+page_view,resumetrud.com / referral,1,1
+page_view,saharaj.net / referral,1,1
+page_view,search-dre.dt.dbankcloud.com / referral,1,1
+page_view,search.app / referral,1,1
+page_view,secretchina.com / referral,1,1
+page_view,secure.smore.com / referral,1,1
+page_view,sense.sopact.com / referral,1,1
+page_view,sites.google.com / referral,1,1
+page_view,smbsalesimplementation.my.salesforce.com / referral,1,5
+page_view,teachercourse2023.education.gov.il / referral,1,6
+page_view,thescea.org / referral,1,1
+page_view,tipz.io / referral,1,2
+page_view,us.search.yahoo.com / referral,1,1
+page_view,usc-powerpoint.officeapps.live.com / referral,1,1
+page_view,usc-word-edit.officeapps.live.com / referral,1,1
+page_view,user-content.s4.sfmc-content.com / referral,1,1
+page_view,vamarinedebriscoalition-odu-geosea.hub.arcgis.com / referral,1,1
+page_view,vercel.live / referral,1,2
+page_view,view.genially.com / referral,1,3
+page_view,vn.search.yahoo.com / referral,1,1
+page_view,vnseameo.org / referral,1,1
+page_view,webhitlist.com / referral,1,1
+page_view,webmail1.earthlink.net / referral,1,1
+page_view,word-edit.officeapps.live.com / referral,1,1
+page_view,wordhippo.com / referral,1,1
+page_view,yesware.com / referral,1,1
+page_view,youthentrepreneurs.lightning.force.com / referral,1,3

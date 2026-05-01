@@ -1,0 +1,17 @@
+# ----------------------------------------
+# Events: Event name
+# Account: Waste Hero 
+# Property: Waste Hero 
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20230101
+# End date: 20260306
+Event name,Age,Total users,Event count
+file_view,unknown,9213,33502
+file_view,18-24,1442,4528
+file_view,25-34,1171,4457
+file_view,35-44,596,2143
+file_view,45-54,411,1591
+file_view,55-64,160,458
+file_view,65+,132,486

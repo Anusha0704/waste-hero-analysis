@@ -1,0 +1,210 @@
+# ----------------------------------------
+# Events: Event name
+# Account: Waste Hero 
+# Property: Waste Hero 
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20230101
+# End date: 20260306
+Event name,Session source/medium,Total users,Event count
+user_engagement,google / cpc,226907,255043
+user_engagement,(direct) / (none),16776,27140
+user_engagement,l.facebook.com / referral,7975,13760
+user_engagement,(data not available),3317,4152
+user_engagement,google / organic,2634,4266
+user_engagement,m.facebook.com / referral,1391,1821
+user_engagement,(NEA) Ad Campaign / (NEA) Ad Campaign,1291,1581
+user_engagement,(Porvir) Social Media Posts / (Porvir) Social Media Posts,827,1073
+user_engagement,NEA Ads / Social Media,701,832
+user_engagement,(not set),684,761
+user_engagement,leadsgo.io / referral,508,508
+user_engagement,Porvir / email,498,618
+user_engagement,ShareMyLesson Campaign / ShareMyLesson Campaign,366,501
+user_engagement,bing / organic,350,550
+user_engagement,lm.facebook.com / referral,300,584
+user_engagement,Mariana Teran (Social Media) / influencer promotion,296,344
+user_engagement,youtube.com / referral,263,390
+user_engagement,instagram.com / referral,183,423
+user_engagement,qr-codes.io / referral,176,188
+user_engagement,yunus-thailand.org / referral,134,195
+user_engagement,Gam Facebook / Gam Facebook,127,192
+user_engagement,seameoseps.org / referral,109,140
+user_engagement,sustainability.indoramaventures.com / referral,105,134
+user_engagement,mail.google.com / referral,94,147
+user_engagement,l.instagram.com / referral,84,215
+user_engagement,Gam Instagram / Gam Instagram,82,110
+user_engagement,facebook.com / referral,71,99
+user_engagement,statics.teams.cdn.office.net / referral,69,124
+user_engagement,Maria Lynn (Social Media) / influencer promotion,67,122
+user_engagement,Facebook Ad / affiliate promotion,63,74
+user_engagement,napcor.com / referral,52,58
+user_engagement,Rappler (Ads) / Rappler (Ads),49,51
+user_engagement,linkedin.com / referral,47,92
+user_engagement,qr.page / referral,44,68
+user_engagement,hs_email / email,39,63
+user_engagement,yahoo / organic,38,133
+user_engagement,chatgpt.com / referral,37,52
+user_engagement,IVL / promotion,32,77
+user_engagement,LinkedIn / Content,31,41
+user_engagement,nea.org / referral,31,40
+user_engagement,event.on24.com / referral,27,29
+user_engagement,duckduckgo / organic,25,186
+user_engagement,ecosia.org / organic,24,41
+user_engagement,Prof Yunus (Social Media) / influencer promotion,18,31
+user_engagement,vercel.com / referral,17,200
+user_engagement,BMA Campaign / BMA Campaign,16,28
+user_engagement,community.emf.org / referral,16,28
+user_engagement,Google Ads + Newsletter / promotion,13,38
+user_engagement,ShareMyLesson Ads Campaign / Social Media,12,22
+user_engagement,l.messenger.com / referral,12,16
+user_engagement,web.toddleapp.com / referral,12,18
+user_engagement,teams.microsoft.com / referral,11,16
+user_engagement,Social Media / influencer promotion,10,10
+user_engagement,chatgpt.com / (not set),10,12
+user_engagement,out.smore.com / referral,10,12
+user_engagement,Banner Ad / affiliate promotion,9,32
+user_engagement,mycourseville.com / referral,8,9
+user_engagement,MPU / affiliate promotion,7,8
+user_engagement,bic.moe.go.th / referral,7,15
+user_engagement,l.workplace.com / referral,7,17
+user_engagement,ph.search.yahoo.com / referral,7,15
+user_engagement,recyclecolorado.org / referral,7,8
+user_engagement,tagassistant.google.com / referral,7,70
+user_engagement,gbc-word-edit.officeapps.live.com / referral,6,6
+user_engagement,lnkd.in / referral,6,11
+user_engagement,web.telegram.org / referral,6,11
+user_engagement,Brainfeed (Article) / Brainfeed (Article),5,10
+user_engagement,Jessica Kleczka (Campaign) / Jessica Kleczka (Campaign),5,8
+user_engagement,mgronline.com / referral,5,19
+user_engagement,moe.go.th / referral,5,14
+user_engagement,techsauce.co / referral,5,7
+user_engagement,web.yammer.com / referral,5,12
+user_engagement,Gulo (Campaign) / Gulo (Campaign),4,5
+user_engagement,Margreen (Social Media) / influencer promotion,4,14
+user_engagement,br.search.yahoo.com / referral,4,9
+user_engagement,canva.com / referral,4,10
+user_engagement,cn.bing.com / referral,4,4
+user_engagement,engage.cloud.microsoft / referral,4,5
+user_engagement,esp / Email,4,6
+user_engagement,googleads.g.doubleclick.net / referral,4,4
+user_engagement,id.search.yahoo.com / referral,4,5
+user_engagement,localhost:3000 / referral,4,9
+user_engagement,m.youtube.com / referral,4,4
+user_engagement,mikesnews.co.nz / referral,4,4
+user_engagement,sec-word-edit.officeapps.live.com / referral,4,6
+user_engagement,web.skype.com / referral,4,4
+user_engagement,classroom.google.com / referral,3,4
+user_engagement,docs.google.com / referral,3,3
+user_engagement,ead06.proj.ufsm.br / referral,3,4
+user_engagement,eto.lightning.force.com / referral,3,7
+user_engagement,get-qr.com / referral,3,5
+user_engagement,indoramaventures.sharepoint.com / referral,3,3
+user_engagement,ktb.org / referral,3,5
+user_engagement,lms.lausd.net / referral,3,4
+user_engagement,luma.com / referral,3,5
+user_engagement,me-qr.com / referral,3,23
+user_engagement,mx.search.yahoo.com / referral,3,4
+user_engagement,niagarawater1.sharepoint.com / referral,3,3
+user_engagement,probhaaurora.com / referral,3,4
+user_engagement,sharemylesson.com / referral,3,6
+user_engagement,ukc-word-edit.officeapps.live.com / referral,3,4
+user_engagement,www-wasteheroeducation-com.translate.goog / referral,3,3
+user_engagement,zalo / zalo,3,3
+user_engagement,(NEA / (not set),2,2
+user_engagement,DMPU / affiliate promotion,2,2
+user_engagement,Dr. Amjad Saqib (Social Media) / influencer promotion,2,5
+user_engagement,Newsletter Ad / affiliate promotion,2,8
+user_engagement,[SEAMOLEC Blast] CAL... (Mass Mailing created on 2023-07-14) / Email,2,3
+user_engagement,admanager.google.com / referral,2,3
+user_engagement,ads.google.com / referral,2,3
+user_engagement,aol / organic,2,2
+user_engagement,attachment.outlook.live.net / referral,2,4
+user_engagement,beta.indoramaventures.com / referral,2,4
+user_engagement,borareciclar.com.br / referral,2,3
+user_engagement,conversation_mailer / email,2,3
+user_engagement,copilot.microsoft.com / referral,2,3
+user_engagement,dnserrorassist.att.net / referral,2,3
+user_engagement,edgeservices.bing.com / referral,2,2
+user_engagement,euc-excel.officeapps.live.com / referral,2,2
+user_engagement,in.search.yahoo.com / referral,2,5
+user_engagement,indoramaventures.com / referral,2,2
+user_engagement,online.fliphtml5.com / referral,2,3
+user_engagement,perplexity.ai / referral,2,2
+user_engagement,pl.search.yahoo.com / referral,2,2
+user_engagement,uk.search.yahoo.com / referral,2,3
+user_engagement,yandex.com.tr / referral,2,2
+user_engagement,127.0.0.1:56305 / referral,1,1
+user_engagement,AFB Bef / Fbdvby Zfevb,1,1
+user_engagement,Ads Campaign / SM,1,2
+user_engagement,FubefZlYfffba Bef Dbzcbvta / Fbdvby Zfevb,1,1
+user_engagement,GovDelivery / email,1,3
+user_engagement,Mariana Teran / (not set),1,1
+user_engagement,NEA Email Newsletter Ad / NEA Email Newsletter Ad,1,5
+user_engagement,Porvir / (Porvir) Social Media Posts,1,1
+user_engagement,ShareMyLesson Campaign / referral,1,1
+user_engagement,adsmanager.facebook.com / referral,1,2
+user_engagement,adwords.corp.google.com / referral,1,1
+user_engagement,app.dripify.io / referral,1,1
+user_engagement,app.planbook.com / referral,1,3
+user_engagement,app.sendible.com / referral,1,1
+user_engagement,au.search.yahoo.com / referral,1,1
+user_engagement,autoscout24.fr / referral,1,2
+user_engagement,business.facebook.com / referral,1,26
+user_engagement,calendar.google.com / referral,1,2
+user_engagement,canva / iframely,1,2
+user_engagement,cds-ext-ead-economiasustentavel-252.dreamshaper.com / referral,1,1
+user_engagement,chat.openai.com / referral,1,1
+user_engagement,chat.zalo.me / referral,1,4
+user_engagement,chatgpt.com / organic,1,2
+user_engagement,cl.search.yahoo.com / referral,1,1
+user_engagement,coches.trovit.es / referral,1,1
+user_engagement,cop.enneplusproject.eu / referral,1,1
+user_engagement,copilot.cloud.microsoft / referral,1,1
+user_engagement,e.mail.ru / referral,1,1
+user_engagement,ecf4clim.smartwatt.net / referral,1,2
+user_engagement,fiverr.com / referral,1,2
+user_engagement,fr.search.yahoo.com / referral,1,1
+user_engagement,gemini.google.com / referral,1,1
+user_engagement,homeofbob.com / referral,1,1
+user_engagement,hypertherm.sharepoint.com / referral,1,1
+user_engagement,iste.lightning.force.com / referral,1,4
+user_engagement,liblink.pl / referral,1,1
+user_engagement,localhost / referral,1,2
+user_engagement,localhost:6543 / referral,1,1
+user_engagement,login.microsoftonline.com / referral,1,3
+user_engagement,m.nearbyme.io / referral,1,2
+user_engagement,mail.aliyun.com / referral,1,4
+user_engagement,mail.infinitummail.com / referral,1,1
+user_engagement,mail3.spectrum.net / referral,1,1
+user_engagement,malaysia.search.yahoo.com / referral,1,1
+user_engagement,mightytechy.com / referral,1,1
+user_engagement,myportal.upou.edu.ph / referral,1,1
+user_engagement,ops.moe.go.th / referral,1,4
+user_engagement,optiwise.teamwork.com / referral,1,1
+user_engagement,orb-cn.glowapp.vip / referral,1,1
+user_engagement,orchid-conch-cfrt.squarespace.com / referral,1,1
+user_engagement,pagead2.googlesyndication.com / referral,1,1
+user_engagement,petalsearch.com / referral,1,8
+user_engagement,portal.ct.gov / referral,1,1
+user_engagement,presearch.com / referral,1,1
+user_engagement,qwant.com / organic,1,1
+user_engagement,search.app / referral,1,1
+user_engagement,secure.smore.com / referral,1,1
+user_engagement,sense.sopact.com / referral,1,1
+user_engagement,sg.search.yahoo.com / referral,1,1
+user_engagement,sites.google.com / referral,1,1
+user_engagement,smbsalesimplementation.my.salesforce.com / referral,1,3
+user_engagement,thescea.org / referral,1,1
+user_engagement,tricityecology.org / referral,1,1
+user_engagement,usc-powerpoint.officeapps.live.com / referral,1,1
+user_engagement,usc-word-edit.officeapps.live.com / referral,1,1
+user_engagement,user-content.s4.sfmc-content.com / referral,1,1
+user_engagement,vamarinedebriscoalition-odu-geosea.hub.arcgis.com / referral,1,1
+user_engagement,vercel.live / referral,1,2
+user_engagement,view.genially.com / referral,1,3
+user_engagement,vn.search.yahoo.com / referral,1,1
+user_engagement,vnseameo.org / referral,1,1
+user_engagement,webmail1.earthlink.net / referral,1,1
+user_engagement,word-edit.officeapps.live.com / referral,1,1
+user_engagement,youthentrepreneurs.lightning.force.com / referral,1,1

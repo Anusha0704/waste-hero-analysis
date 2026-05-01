@@ -1,0 +1,170 @@
+# ----------------------------------------
+# Events: Event name
+# Account: Waste Hero 
+# Property: Waste Hero 
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20230101
+# End date: 20260306
+Event name,Country,Total users,Event count
+user_engagement,India,107228,124354
+user_engagement,Philippines,94082,112817
+user_engagement,Mexico,14685,17087
+user_engagement,South Africa,12627,14865
+user_engagement,Brazil,10998,13251
+user_engagement,United States,9804,12246
+user_engagement,Indonesia,4095,5540
+user_engagement,Spain,1681,1971
+user_engagement,Thailand,1579,4375
+user_engagement,France,1501,1685
+user_engagement,Canada,994,1191
+user_engagement,Germany,847,983
+user_engagement,Malaysia,518,826
+user_engagement,Hungary,459,533
+user_engagement,Singapore,371,761
+user_engagement,United Kingdom,264,348
+user_engagement,New Zealand,248,292
+user_engagement,Netherlands,198,266
+user_engagement,China,182,190
+user_engagement,Myanmar (Burma),180,380
+user_engagement,Cambodia,165,265
+user_engagement,Bangladesh,161,333
+user_engagement,Norway,147,160
+user_engagement,Ireland,119,239
+user_engagement,Colombia,118,139
+user_engagement,Vietnam,115,196
+user_engagement,Australia,110,145
+user_engagement,Pakistan,105,160
+user_engagement,Brunei,87,137
+user_engagement,Poland,86,176
+user_engagement,Sweden,72,90
+user_engagement,Bhutan,64,88
+user_engagement,Portugal,62,98
+user_engagement,Italy,57,91
+user_engagement,Ukraine,55,63
+user_engagement,Luxembourg,52,58
+user_engagement,Finland,51,72
+user_engagement,Peru,51,70
+user_engagement,Türkiye,47,63
+user_engagement,Laos,46,111
+user_engagement,Nepal,46,76
+user_engagement,Argentina,45,53
+user_engagement,Israel,43,56
+user_engagement,Russia,42,58
+user_engagement,United Arab Emirates,41,58
+user_engagement,Austria,38,49
+user_engagement,Japan,38,47
+user_engagement,Belgium,32,52
+user_engagement,Saudi Arabia,32,36
+user_engagement,Egypt,29,43
+user_engagement,Denmark,28,29
+user_engagement,Switzerland,28,41
+user_engagement,South Korea,27,40
+user_engagement,Chile,25,64
+user_engagement,Hong Kong,24,40
+user_engagement,Greece,23,31
+user_engagement,Morocco,20,27
+user_engagement,Iran,19,24
+user_engagement,Panama,19,35
+user_engagement,Ecuador,18,20
+user_engagement,Czechia,17,22
+user_engagement,Bolivia,16,25
+user_engagement,Costa Rica,16,22
+user_engagement,Qatar,15,20
+user_engagement,Romania,15,19
+user_engagement,Kenya,13,14
+user_engagement,Nigeria,12,14
+user_engagement,Slovakia,11,18
+user_engagement,Taiwan,11,23
+user_engagement,Serbia,10,16
+user_engagement,Bulgaria,9,11
+user_engagement,Guatemala,9,10
+user_engagement,Uganda,9,11
+user_engagement,Venezuela,9,14
+user_engagement,(not set),8,8
+user_engagement,Sri Lanka,8,24
+user_engagement,Kazakhstan,7,7
+user_engagement,Dominican Republic,6,8
+user_engagement,Kuwait,6,9
+user_engagement,Lithuania,6,9
+user_engagement,Maldives,5,10
+user_engagement,Paraguay,5,7
+user_engagement,Bahrain,4,5
+user_engagement,Belarus,4,4
+user_engagement,Eswatini,4,4
+user_engagement,Fiji,4,4
+user_engagement,Ghana,4,5
+user_engagement,Honduras,4,4
+user_engagement,Jamaica,4,5
+user_engagement,Mongolia,4,5
+user_engagement,Namibia,4,6
+user_engagement,Nicaragua,4,11
+user_engagement,Puerto Rico,4,4
+user_engagement,Uruguay,4,6
+user_engagement,Uzbekistan,4,4
+user_engagement,Algeria,3,4
+user_engagement,Azerbaijan,3,3
+user_engagement,Croatia,3,3
+user_engagement,Cyprus,3,3
+user_engagement,El Salvador,3,6
+user_engagement,Ethiopia,3,4
+user_engagement,Latvia,3,3
+user_engagement,Lesotho,3,3
+user_engagement,Oman,3,4
+user_engagement,Timor-Leste,3,9
+user_engagement,Trinidad & Tobago,3,5
+user_engagement,Albania,2,3
+user_engagement,Armenia,2,3
+user_engagement,Barbados,2,3
+user_engagement,Botswana,2,2
+user_engagement,Cameroon,2,4
+user_engagement,Côte d’Ivoire,2,2
+user_engagement,Estonia,2,4
+user_engagement,Georgia,2,3
+user_engagement,Guernsey,2,2
+user_engagement,Liberia,2,2
+user_engagement,Malta,2,2
+user_engagement,Mauritius,2,2
+user_engagement,Senegal,2,2
+user_engagement,Tanzania,2,2
+user_engagement,Afghanistan,1,1
+user_engagement,American Samoa,1,3
+user_engagement,Belize,1,1
+user_engagement,Bermuda,1,1
+user_engagement,Bosnia & Herzegovina,1,1
+user_engagement,Burkina Faso,1,1
+user_engagement,Cayman Islands,1,1
+user_engagement,Cuba,1,1
+user_engagement,Gabon,1,1
+user_engagement,Grenada,1,1
+user_engagement,Guinea,1,1
+user_engagement,Guyana,1,1
+user_engagement,Iraq,1,1
+user_engagement,Jersey,1,2
+user_engagement,Jordan,1,1
+user_engagement,Kosovo,1,1
+user_engagement,Lebanon,1,2
+user_engagement,Libya,1,1
+user_engagement,Macao,1,1
+user_engagement,Moldova,1,2
+user_engagement,Monaco,1,1
+user_engagement,Montenegro,1,5
+user_engagement,Niger,1,1
+user_engagement,North Macedonia,1,1
+user_engagement,Palestine,1,1
+user_engagement,Papua New Guinea,1,1
+user_engagement,Rwanda,1,1
+user_engagement,Réunion,1,1
+user_engagement,Sierra Leone,1,1
+user_engagement,Sint Maarten,1,1
+user_engagement,Slovenia,1,1
+user_engagement,Somalia,1,1
+user_engagement,Suriname,1,1
+user_engagement,Tajikistan,1,1
+user_engagement,Togo,1,1
+user_engagement,Tunisia,1,1
+user_engagement,U.S. Virgin Islands,1,1
+user_engagement,Vanuatu,1,1
+user_engagement,Western Sahara,1,1
+user_engagement,Zimbabwe,1,1

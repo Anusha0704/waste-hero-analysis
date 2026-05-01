@@ -1,0 +1,17 @@
+# ----------------------------------------
+# Events: Event name
+# Account: Waste Hero 
+# Property: Waste Hero 
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20230101
+# End date: 20260306
+Event name,Age,Total users,Event count
+user_engagement,unknown,202296,240822
+user_engagement,25-34,27101,31066
+user_engagement,18-24,17419,20340
+user_engagement,35-44,10675,12309
+user_engagement,45-54,5162,6004
+user_engagement,55-64,3887,4468
+user_engagement,65+,2710,3105

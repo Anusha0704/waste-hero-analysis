@@ -1,0 +1,29 @@
+# ----------------------------------------
+# Events: Event name
+# Account: Waste Hero 
+# Property: Waste Hero 
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20230101
+# End date: 20260306
+Event name,Total users,Event count
+session_start,778190,1030312
+page_view,778091,1235166
+first_visit,775716,825555
+user_engagement,268394,317958
+click,15948,63830
+scroll,13389,15865
+file_view,12936,47162
+video_start,3730,6071
+video_progress,2995,14412
+video_complete,962,1775
+form_start,85,85
+form_submit,72,158
+Click_Link_Library,17,65
+file_download,17,178
+OutBound_Clicks,6,23
+cta_click3,4,7
+DFL_Click,2,5
+DL_click,2,5
+TV,1,1

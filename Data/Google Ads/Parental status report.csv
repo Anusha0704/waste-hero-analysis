@@ -1,0 +1,75 @@
+Parental status report
+1 January 2025 - 6 March 2026
+Demographic status,Parental status,Campaign,Ad group,Status,Bid adj.,Currency code,TrueView avg. CPV,Impr.,Interactions,Interaction rate,Avg. cost,Cost,Conv. rate,Conversions,Cost / conv.
+Enabled,Not a parent,04-09-25-Performance Max France, --,Ad group not complete, --,THB,0.07,"87,782","2,668",3.04%,0.77,2057.76,60.96%,"1,626.33",1.27
+Enabled,Parent,04-09-25-Performance Max France, --,Ad group not complete, --,THB,0.12,"24,861",772,3.11%,1.56,1205.99,65.16%,503.00,2.40
+Enabled,Unknown,04-09-25-Performance Max France, --,Ad group not complete, --,THB,0.42,"340,234","6,642",1.95%,0.67,4448.95,69.78%,"4,634.67",0.96
+Enabled,Parent,(#1) Video Ad - India - 2023-10-04,Keywords,Campaign paused, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Not a parent,06-08-25-Performance Max India #2, --,Ad group not complete, --,THB,0.11,"772,137","127,022",16.45%,0.04,5516.46,63.20%,"80,274.15",0.07
+Enabled,Unknown,(#1) Video Ad - India - 2023-10-04,Custom Audience,Campaign paused, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,(#1) Video Ad - India - 2023-10-04,In-Market,Campaign paused, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,(#1) Video Ad - India - 2023-10-04,Keywords,Campaign paused, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Parent,(#1) Video Ad - India - 2023-10-04,In-Market,Campaign paused, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Parent,(#1) Video Ad - India - 2023-10-04,Custom Audience,Campaign paused, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Not a parent,(#1) Video Ad - India - 2023-10-04,Custom Audience,Campaign paused, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Parent,06-08-25-Performance Max India #2, --,Ad group not complete, --,THB,0.08,"699,788","108,615",15.52%,0.05,4966.09,65.89%,"71,571.24",0.07
+Enabled,Unknown,06-08-25-Performance Max India #2, --,Ad group not complete, --,THB,0.03,"1,649,862","554,932",33.64%,0.02,11737.14,27.34%,"151,696.52",0.08
+Enabled,Not a parent,(#1) Video Ad - India - 2023-10-04,In-Market,Campaign paused, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Not a parent,(#1) Video Ad - India - 2023-10-04,Keywords,Campaign paused, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Not a parent,04-09-25-Performance Max South Africa, --,Ad group not complete, --,THB,0.06,"96,499","10,568",10.95%,0.17,1804.01,46.02%,"4,862.95",0.37
+Enabled,Unknown,04-09-25-Performance Max South Africa, --,Ad group not complete, --,THB,0.08,"224,658","74,378",33.11%,0.09,6477.38,22.31%,"16,590.87",0.39
+Enabled,Parent,04-09-25-Performance Max South Africa, --,Ad group not complete, --,THB,0.21,"58,181","7,656",13.16%,0.25,1902.27,70.98%,"5,434.19",0.35
+Enabled,Unknown,03-07-25-Performance Max Phillippines, --,Ad group not complete, --,THB,0.02,"2,275,716","934,129",41.05%,0.02,18797.86,20.96%,"195,749.25",0.10
+Enabled,Not a parent,03-07-25-Performance Max Phillippines, --,Ad group not complete, --,THB,0.02,"262,449","41,738",15.90%,0.05,2161.99,44.32%,"18,497.94",0.12
+Enabled,Parent,04-09-25-Performance Max Spain, --,Ad group not complete, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Parent,03-07-25-Performance Max Phillippines, --,Ad group not complete, --,THB,0.02,"188,345","23,609",12.53%,0.06,1516.68,60.00%,"14,164.30",0.11
+Enabled,Not a parent,04-09-25-Performance Max Spain, --,Ad group not complete, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,04-09-25-Performance Max Spain, --,Ad group not complete, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,North America : Video views - 2025-03-05,Parents,Campaign paused, --,THB,1.54,25,3,12.00%,1.03,3.09,0.00%,0.00,0.00
+Removed,Not a parent,North America : Video views - 2025-03-05,Parents,Excluded from ad group, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Parent,North America : Video views - 2025-03-05,Green Living,Campaign paused, --,THB,0.53,"7,018","3,340",47.59%,0.45,1518.16,0.00%,0.00,0.00
+Enabled,Not a parent,North America : Video views - 2025-03-05,Sustainability + Education,Campaign paused, --,THB,0.41,"7,953","3,323",41.78%,0.36,1181.12,0.00%,0.00,0.00
+Enabled,Not a parent,North America : Video views - 2025-03-05,Green Living,Campaign paused, --,THB,0.44,"8,923","4,894",54.85%,0.37,1812.56,0.00%,0.00,0.00
+Enabled,Unknown,North America : Video views - 2025-03-05,Green Living,Campaign paused, --,THB,0.35,"6,249","3,188",51.02%,0.31,980.85,0.00%,0.00,0.00
+Enabled,Parent,North America : Video views - 2025-03-05,Parents,Campaign paused, --,THB,2.35,236,57,24.15%,1.69,96.23,0.00%,0.00,0.00
+Enabled,Unknown,North America : Video views - 2025-03-05,Sustainability + Education,Campaign paused, --,THB,0.44,"4,880","1,478",30.29%,0.38,561.83,0.00%,0.00,0.00
+Enabled,Parent,North America : Video views - 2025-03-05,Sustainability + Education,Campaign paused, --,THB,0.55,"3,840","1,280",33.33%,0.48,613.37,0.00%,0.00,0.00
+Enabled,Unknown,04-08-25-Performance Max India, --,Ad group not complete, --,THB,0,"38,701","4,031",10.42%,0.05,196.73,81.54%,"3,287.01",0.06
+Enabled,Parent,04-08-25-Performance Max India, --,Ad group not complete, --,THB,0.07,"26,534","3,142",11.84%,0.04,135.09,73.21%,"2,300.31",0.06
+Enabled,Not a parent,04-08-25-Performance Max India, --,Ad group not complete, --,THB,0.12,"27,021","3,260",12.06%,0.04,141.55,75.42%,"2,458.77",0.06
+Enabled,Not a parent,06-08-25-Performance Max Brazil #2, --,Ad group not complete, --,THB,0.07,"31,094","3,415",10.98%,0.14,485.01,47.01%,"1,605.50",0.30
+Enabled,Unknown,06-08-25-Performance Max Brazil #2, --,Ad group not complete, --,THB,0.08,"236,431","72,419",30.63%,0.07,4962.17,21.25%,"15,387.17",0.32
+Enabled,Parent,06-08-25-Performance Max Brazil #2, --,Ad group not complete, --,THB,0.10,"17,912","1,904",10.63%,0.19,368.76,57.21%,"1,089.33",0.34
+Enabled,Unknown,04-09-25-Performance Max Mexico, --,Ad group not complete, --,THB,0.06,"570,781","104,856",18.37%,0.07,7111.59,18.76%,"19,674.65",0.36
+Enabled,Parent,04-09-25-Performance Max Mexico, --,Ad group not complete, --,THB,0.13,"88,751","7,594",8.56%,0.19,1424.47,57.77%,"4,386.72",0.32
+Enabled,Not a parent,28-04-25-Performance Max Thai, --,Ad group not complete, --,THB,0.33,"37,761","1,365",3.61%,1.15,1568.35,6.23%,85.00,18.45
+Enabled,Unknown,28-04-25-Performance Max Thai, --,Ad group not complete, --,THB,0.11,"139,026","8,878",6.39%,0.46,4069.36,44.47%,"3,948.00",1.03
+Enabled,Parent,28-04-25-Performance Max Thai, --,Ad group not complete, --,THB,0.25,"13,327",619,4.64%,1.07,662.67,4.85%,30.00,22.09
+Enabled,Not a parent,04-09-25-Performance Max Mexico, --,Ad group not complete, --,THB,0.03,"150,489","15,611",10.37%,0.09,1467.39,23.79%,"3,714.63",0.40
+Enabled,Parent,Video Consideration - 2023-10-04,Video Consideration - 2023-10-04,Campaign removed, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Not a parent,Video Consideration - 2023-10-04,Video Consideration - 2023-10-04,Campaign removed, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,Video Consideration - 2023-10-04,Video Consideration - 2023-10-04,Campaign removed, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Not a parent,04-08-25-Performance Max Brazil, --,Ad group not complete, --,THB,0.10,"4,767",189,3.96%,0.36,67.75,52.91%,100.00,0.68
+Enabled,Unknown,04-09-25-Performance Max North America, --,Ad group not complete, --,THB,0.45,"152,676","6,291",4.12%,1.22,7697.83,88.71%,"5,580.83",1.38
+Enabled,Parent,04-08-25-Performance Max Brazil, --,Ad group not complete, --,THB,0.09,"1,079",37,3.43%,0.31,11.50,105.41%,39.00,0.29
+Enabled,Parent,04-09-25-Performance Max North America, --,Ad group not complete, --,THB,0.43,"31,449","1,083",3.44%,1.56,1689.31,85.69%,928.00,1.82
+Enabled,Parent,(#2) Test Video Philippines,Keywords,Campaign removed, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,(#2) Test Video Philippines,Keywords,Campaign removed, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Parent,(#2) Test Video Philippines,In-Market,Campaign removed, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Not a parent,(#2) Test Video Philippines,Keywords,Campaign removed, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Not a parent,04-09-25-Performance Max North America, --,Ad group not complete, --,THB,0.28,"122,841","5,014",4.08%,1.21,6051.87,70.29%,"3,524.17",1.72
+Enabled,Not a parent,(#2) Test Video Philippines,In-Market,Campaign removed, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Not a parent,(#2) Test Video Philippines,Custom Audience,Campaign removed, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,04-08-25-Performance Max Brazil, --,Ad group not complete, --,THB,0.08,"23,749","1,977",8.32%,0.13,254.71,22.15%,438.00,0.58
+Enabled,Unknown,(#2) Test Video Philippines,Custom Audience,Campaign removed, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,(#2) Test Video Philippines,In-Market,Campaign removed, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Parent,(#2) Test Video Philippines,Custom Audience,Campaign removed, --,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Enabled,Not a parent,04-09-25-Performance Max Spain #2 Active, --,Ad group not complete, --,THB,0.07,"75,233","3,214",4.27%,0.50,1600.11,52.19%,"1,677.50",0.95
+Enabled,Parent,04-09-25-Performance Max Spain #2 Active, --,Ad group not complete, --,THB,0.13,"28,406","1,114",3.92%,0.99,1097.70,60.28%,671.50,1.63
+Enabled,Unknown,04-09-25-Performance Max Spain #2 Active, --,Ad group not complete, --,THB,0.24,"337,766","9,861",2.92%,0.45,4486.70,62.74%,"6,187.00",0.73
+Total: Parental statuses,,,,,,THB,0.04,"8,875,430","2,166,166",24.41%,0.05,114910.39,29.67%,"642,718.50",0.18
+Total: Display automatic targeting,,,,,,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Total: Account,,,,,,THB,0.04,"8,875,430","2,166,166",24.41%,0.05,114910.39,29.67%,"642,718.50",0.18
+Total: In-stream video,,,,,,THB,0.45,"39,124","17,563",44.89%,0.39,6767.20,0.00%,0.00,0.00
+Total: Performance Max,,,,,,THB,0.03,"8,836,306","2,148,603",24.32%,0.05,108143.19,29.91%,"642,718.50",0.17
+Total: Search,,,,,,THB,0,0,0, --,0,0.00,0.00%,0.00,0.00
